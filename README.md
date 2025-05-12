@@ -96,11 +96,6 @@ The findings highlight:
 - The **erosion of NGO autonomy**, raising concerns about democratic health
 
   ![Picture1](https://github.com/user-attachments/assets/c29627ec-31f1-47c5-8c2d-ad623f84750b)
-  <img src="https://github.com/user-attachments/assets/c29627ec-31f1-47c5-8c2d-ad623f84750b" width="800"/>
-
-
-
----
 
 ---
 
