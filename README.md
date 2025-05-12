@@ -104,8 +104,7 @@ The findings highlight:
 
 ## Licensing
 
-This repository is sh![Picture1](https://github.com/user-attachments/assets/012aa98a-c497-4862-afe2-9a19659c35f3)
-ared for **academic and non-commercial research purposes**. You are **free to use, modify, and build upon** this work, provided that you **credit the original author**, Mehmet Boran Göksel.
+This repository is shared for **academic and non-commercial research purposes**. You are **free to use, modify, and build upon** this work, provided that you **credit the original author**, Mehmet Boran Göksel.
 
 Please include a citation or link to this repository in any derivative works, publications, or presentations.
 
